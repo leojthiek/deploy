@@ -3,6 +3,6 @@ import styles from './page.module.css'
 
 export default function Home() {
   return (
-   <h1>hello this is my next application</h1>
+   <h1>hello this is my next application , come on</h1>
   )
 }
